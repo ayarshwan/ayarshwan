@@ -13,13 +13,43 @@ research and contributing to research communities.
 I'm also exploring the security side of smart vehicles and self-driving cars 🚗, and I like keeping up wherever security meets AI/ML.
 
 **Currently:**
-- Growing my skills in Red Team 🔴 (with some Blue Team on the side 🔵 'cause why not?), playing CTFs.
+- Growing my skills in Red Team 🔴 (with some Blue Team on the side 🔵 'cause why not?).
+- contributing to research communities and open source projects.
+- Playing CTFs.
 - Working on a graduation project that solves a real security problem companies actually face.
 
 **My Toolbox:**
-Wireshark, Nmap, Burp Suite, Kali Linux, Redhat Linux, Foundry, Snort, Docker, Ollama, SUMO, CARLA, Git/GitHub, MongoDB, Supabase, Firebase.
-**My languages:**
-Python, C++, Web3, JavaScript, Assembly, C embedded, Micro py, Go, SQL, HTML5/CSS.
+
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Red Hat Linux](https://img.shields.io/badge/Red_Hat_Linux-000000?style=for-the-badge&logo=redhat&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
+![Snort](https://img.shields.io/badge/Snort-000000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![SUMO](https://img.shields.io/badge/SUMO-000000?style=for-the-badge)
+![CARLA](https://img.shields.io/badge/CARLA-000000?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
+
+**My Languages:**
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-000000?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge)
+![C Embedded](https://img.shields.io/badge/C_Embedded-000000?style=for-the-badge)
+![MicroPython](https://img.shields.io/badge/MicroPython-000000?style=for-the-badge&logo=micropython&logoColor=white)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5/CSS](https://img.shields.io/badge/HTML5%2FCSS-000000?style=for-the-badge&logo=html5&logoColor=white)
+
 ### > beyond_the_terminal
 - My Bestfriend is my cat, Temo 🐱
 - I love graphic design and anything colorful ✨
@@ -27,3 +57,4 @@ Python, C++, Web3, JavaScript, Assembly, C embedded, Micro py, Go, SQL, HTML5/CS
 
 **Open to:**
 Freelance · Collab · Full-time · Research · Tutoring
+

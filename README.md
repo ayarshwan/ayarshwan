@@ -1,15 +1,17 @@
 ### > whoami 👋
 
-I'm Aya, a Networks & Cybersecurity student at E-JUST.
+I'm Aya, Senior Networks & Cybersecurity student at E-JUST.
 
-I love solving new problems with fresh ideas and turning them into real projects — especially security ones. 🔐
+I love solving new problems with new ideas and turning them into real projects — especially security ones. 🔐
 
-I'm the kind of person who asks a question then goes and finds the answer myself, which is probably why research pulled me in.
-
-**Currently:**
-Growing my skills in Red Team 🔴 (with some Blue Team on the side 🔵 'cause why not?), playing CTFs, and working on a graduation project that solves a real security problem companies actually face.
+I'm naturally curious: I like asking questions and digging for the answers myself, which is what pulls me toward scientific
+research and contributing to research communities.
 
 I'm also exploring the security side of smart vehicles and self-driving cars 🚗, and I like keeping up wherever security meets AI/ML.
+
+**Currently:**
+Growing my skills in Red Team 🔴 (with some Blue Team on the side 🔵 'cause why not?), playing CTFs.
+Working on a graduation project that solves a real security problem companies actually face.
 
 **My Toolbox:**
 Python, C++, JavaScript, SQL, HTML5/CSS, MongoDB, Supabase, Firebase, Linux, Git/GitHub, Wireshark, Nmap, Burp Suite, Kali Linux, Foundry, Snort, Web3, LLMs & ML, SUMO, CARLA.

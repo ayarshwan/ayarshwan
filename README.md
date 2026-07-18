@@ -1,3 +1,4 @@
+<img width="1600" height="900" alt="pixel-jeff-matrix-s" src="https://github.com/user-attachments/assets/309ea44a-5e98-4451-a8e2-139611cae14a" />
 ### > whoami 👋
 
 I'm Aya, Senior Networks & Cybersecurity student at E-JUST.

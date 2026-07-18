@@ -1,8 +1,14 @@
 <img width="1600" height="900" alt="pixel-jeff-matrix-s" src="https://github.com/user-attachments/assets/309ea44a-5e98-4451-a8e2-139611cae14a" />
 
+
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=B197FC&center=true&vCenter=true&width=435&lines=Cybersecurity+Student;Red+Teamer;CTF+Player;Security+Researcher)
+
+
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:ayarshwan54@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-rashwan-5543752b0)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-website.com)
 
 </div>
 
@@ -70,11 +76,5 @@ I'm also exploring the security side of smart vehicles and self-driving cars �
 - I love graphic design and anything colorful ✨
 - 3D game art is my happy place 🎮
 
-**Open to:**
-Freelance · Collab · Full-time · Research · Tutoring
+### > Open to: Freelance · Collab · Full-time · Research · Tutoring
 
-**Contact me:**
-
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:ayarshwan54@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-rashwan-5543752b0)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-website.com)

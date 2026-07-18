@@ -1,7 +1,9 @@
 <img width="1600" height="900" alt="pixel-jeff-matrix-s" src="https://github.com/user-attachments/assets/309ea44a-5e98-4451-a8e2-139611cae14a" />
 
 <div align="center">
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=B197FC&center=true&vCenter=true&width=435&lines=Cybersecurity+Student;Red+Teamer;CTF+Player)
+  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=B197FC&center=true&vCenter=true&width=435&lines=Cybersecurity+Student;Red+Teamer;CTF+Player;Security+Researcher)
+
 </div>
 
 
@@ -23,6 +25,7 @@ I'm also exploring the security side of smart vehicles and self-driving cars ðŸš
 - Working on a graduation project that solves a real security problem companies actually face.
 
 <div align="center">
+  
 **My Toolbox:**
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -59,6 +62,7 @@ I'm also exploring the security side of smart vehicles and self-driving cars ðŸš
 ![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5/CSS](https://img.shields.io/badge/HTML5%2FCSS-000000?style=for-the-badge&logo=html5&logoColor=white)
+
 </div>
 
 ### > beyond_the_terminal
@@ -69,7 +73,8 @@ I'm also exploring the security side of smart vehicles and self-driving cars ðŸš
 **Open to:**
 Freelance Â· Collab Â· Full-time Â· Research Â· Tutoring
 
- **Contact me:**
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+**Contact me:**
+
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:ayarshwan54@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aya-rashwan-5543752b0)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-website.com)
